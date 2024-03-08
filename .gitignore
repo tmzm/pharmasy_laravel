@@ -1,0 +1,4 @@
+# ignore ALL files in ANY directory named vendor
+vendor/
+# ignore .env
+.env
